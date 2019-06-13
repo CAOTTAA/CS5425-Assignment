@@ -1,0 +1,48 @@
+Resulting clusters:
+ medianScore averageScore Dominant Domain (%percent)  Questions
+================================================
+           1             2 Deep-learning     (100.0%)        94266
+           1             2 Algorithm         (100.0%)       316131
+           1             2 Machine-Learning  (100.0%)       364106
+           1             2 Computer-Systems  (100.0%)       113597
+           1             1 Big-Data          (100.0%)       149495
+           1             3 Silicon Valley    (100.0%)        54756
+           1             1 Compute-Science   (100.0%)       349779
+           1             2 Data-Analysis     (100.0%)       358556
+           2             3 Software-Engineering (67.0 %)        21634
+           2             3 Security          (100.0%)       180299
+           2             3 Internet-Service-Providers (100.0%)        24001
+           3             5 Programming-Language (100.0%)        13198
+           4             7 Cloud-services    (100.0%)        10566
+           9            10 Big-Data          (100.0%)        21830
+          10            12 Compute-Science   (100.0%)        29063
+          41            45 Big-Data          (100.0%)         2880
+          44            53 Data-Analysis     (100.0%)         5419
+          45            49 Compute-Science   (100.0%)         3915
+          69            83 Deep-learning     (100.0%)         1190
+          77            98 Security          (100.0%)         1159
+          87           108 Silicon Valley    (100.0%)          619
+         112           135 Machine-Learning  (100.0%)         1739
+         127           134 Compute-Science   (100.0%)          884
+         127           134 Big-Data          (100.0%)          561
+         172           210 Computer-Systems  (100.0%)          359
+         204           230 Data-Analysis     (100.0%)          529
+         276           291 Compute-Science   (100.0%)          237
+         287           297 Big-Data          (100.0%)          153
+         316           430 Algorithm         (100.0%)          128
+         331           359 Deep-learning     (100.0%)          127
+         489           585 Security          (100.0%)           68
+         524           565 Machine-Learning  (100.0%)          214
+         546           557 Silicon Valley    (100.0%)           34
+         564           583 Big-Data          (100.0%)           65
+         580           621 Compute-Science   (100.0%)           62
+         618           726 Data-Analysis     (100.0%)           63
+         766           940 Computer-Systems  (100.0%)           26
+         823           921 Deep-learning     (100.0%)           19
+        1154          1192 Big-Data          (100.0%)           18
+        1300          1378 Compute-Science   (100.0%)           16
+        1474          1558 Machine-Learning  (100.0%)           49
+        3335          3770 Big-Data          (100.0%)            3
+        3636          3636 Security          (100.0%)            2
+        4441          5007 Machine-Learning  (100.0%)            5
+       10271         10271 Compute-Science   (100.0%)            2
